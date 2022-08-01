@@ -1,0 +1,1 @@
+This project will be a recipe website that will utilise a basic knowledge of HTML. It will demonstrate an understanding of the basic principles of HTML syntax and structure and in it's first draft it will not utilise CSS.
